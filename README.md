@@ -2,7 +2,7 @@
 - 자바 콘솔 프로젝트로 옷을 판매하는 쇼핑몰 구현
 - 2023.05.11~2023.05.14 (3일)
 
-![mini1](https://github.com/DAMHEE-K/Mini-Project/assets/126038575/34a8b5d4-ea9b-4d94-82aa-e5554ab439fa)
+<img src="https://github.com/DAMHEE-K/Mini-Project/assets/126038575/34a8b5d4-ea9b-4d94-82aa-e5554ab439fa" width="200" height="400"/>
 
 ### 🛠사용 기술 및 라이브러리
 - Java
